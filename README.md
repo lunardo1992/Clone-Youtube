@@ -20,13 +20,7 @@
  |Estilização de componentes
  |Customização de componentes
  |Layout responsivo
-
-Para replicar esta demo você pode utilizar suas próprias imagens, ou utilizar as imagens deste exemplo, basta baixa-las no repositório (Link nas referências).
-
-✔ PLATAFORMA: 
-https://www.wazana.dev/
-Instrutor Lucas Nhimi
-
+ 
 ✔ LinkedIn: https://www.linkedin.com/in/jony-wesley-430b25182/
 
 ✔ REFERÊNCIAS: 
